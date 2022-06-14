@@ -1,0 +1,1 @@
+# Portuguese_specific_translation_guideline
