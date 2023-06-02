@@ -17,7 +17,7 @@ Este espaço está ligado a [*The Turing Way*](https://the-turing-way.netlify.ap
 - Não traduza:
     - Texto entre ( ) = , como por exemplo: (welcome)= .
 - Procure usar palavras sem atribuição de gênero. Por exemplo: "estudante" em vez de "aluno" ou "aluna".
-- Por enquanto, estamos utilizando português do Brasil nas traduções. Fique à vontade para enviar traduções e sugestões de edição em outros dialetos.
+- Por enquanto, estamos utilizando português do Brasil nas traduções. Fique à vontade para enviar traduções e sugestões de edição em outras variantes.
 
 ## Glossários
 
